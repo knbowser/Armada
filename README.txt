@@ -45,5 +45,21 @@ Features:
 
 
 Bugs: 
-	There are no known bugs
+	There are no known bugs at this point in time, although the program was not extensively tested.
 	
+ART CREDITS:
+•	Enemy Art: (alien1.png, alien2.png, boss.png) https://opengameart.org/content/spaceship-6 by wubitog and Skorpio (https://opengameart.org/users/skorpio)
+•	Player Art: (player_ship.png) this work has been released under the Creative Commons License: https://creativecommons.org/licenses/by/4.0/ By MillionthVector (https://millionthvector.blogspot.de)
+•	Explosion Art: (big_explosion.png, explosion.png) by Retimer at https://opengameart.org/content/wgstudio-explosion-animation
+•	Title Screen Art: https://www.reddit.com/r/wallpaper/comments/1oljxk/the_sun_behind_the_earth_1920_x_1080/
+•	In-game Background Art: https://www.gunnars.com/space/
+•	Instructions Screen Art: https://www.jpl.nasa.gov/assets/images/content/tmp/home/missions_bg_image.jpg
+
+MUSIC CREDITS:
+•	Non in-game music: (death.mid) by Jan125 https://opengameart.org/content/stereotypical-90s-space-shooter-music 
+•	In-game music: (boss.mid) by Jan125 https://opengameart.org/content/stereotypical-90s-space-shooter-music 
+•	Laser Fire Sound Effect: (laser_fire.wav) by dklon https://opengameart.org/content/laser-fire
+
+CODE REFERENCES:
+•	https://www.cs.rutgers.edu/~biglars/pycs4hs/pydemo4.html
+
