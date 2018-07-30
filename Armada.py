@@ -23,7 +23,7 @@ GAME_WINDOW_HEIGHT = 800
 FPS = 60
 
 # Boss level
-BOSS_LVL = random.randint(2,3)
+BOSS_LVL = random.randint(5,10)
 
 # Alien Size, includes ALIEN1 and ALIEN2
 ALIEN_SIZE = 70
